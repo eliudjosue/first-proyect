@@ -1,0 +1,28 @@
+@media(max-width:1526px){
+    .nav{
+        display: flex;
+    }
+    .co-content{
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+@media(max-width:1130px){
+    .nav{
+        display: flex;
+    }
+
+    .co-content{
+        display: flex;
+        flex-direction: row;
+    }
+
+    #sections{
+        width: 70%;
+    }
+
+    /* #aside{
+        display: none;
+    } */
+}
